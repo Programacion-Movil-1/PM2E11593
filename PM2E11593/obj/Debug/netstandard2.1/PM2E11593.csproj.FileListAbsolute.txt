@@ -1,0 +1,15 @@
+C:\Xamarin\PM2E11593\PM2E11593\bin\Debug\netstandard2.1\PM2E11593.deps.json
+C:\Xamarin\PM2E11593\PM2E11593\bin\Debug\netstandard2.1\PM2E11593.dll
+C:\Xamarin\PM2E11593\PM2E11593\bin\Debug\netstandard2.1\ref\PM2E11593.dll
+C:\Xamarin\PM2E11593\PM2E11593\bin\Debug\netstandard2.1\PM2E11593.pdb
+C:\Xamarin\PM2E11593\PM2E11593\obj\Debug\netstandard2.1\PM2E11593.GeneratedMSBuildEditorConfig.editorconfig
+C:\Xamarin\PM2E11593\PM2E11593\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Xamarin\PM2E11593\PM2E11593\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Xamarin\PM2E11593\PM2E11593\obj\Debug\netstandard2.1\View\Pantalla1Page.xaml.g.cs
+C:\Xamarin\PM2E11593\PM2E11593\obj\Debug\netstandard2.1\PM2E11593.AssemblyInfoInputs.cache
+C:\Xamarin\PM2E11593\PM2E11593\obj\Debug\netstandard2.1\PM2E11593.AssemblyInfo.cs
+C:\Xamarin\PM2E11593\PM2E11593\obj\Debug\netstandard2.1\PM2E11593.csproj.CoreCompileInputs.cache
+C:\Xamarin\PM2E11593\PM2E11593\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Xamarin\PM2E11593\PM2E11593\obj\Debug\netstandard2.1\PM2E11593.dll
+C:\Xamarin\PM2E11593\PM2E11593\obj\Debug\netstandard2.1\ref\PM2E11593.dll
+C:\Xamarin\PM2E11593\PM2E11593\obj\Debug\netstandard2.1\PM2E11593.pdb
